@@ -1,5 +1,4 @@
-{
-  "tags": [
-    { "key": "project", "values": ["observability"] }
-  ]
-}
+tags='{
+  "key": "work",
+  "values": ["developer1221"]
+}'
